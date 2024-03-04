@@ -1,4 +1,5 @@
 # A list of all ug scholarships
+EXAMPLE
 <table>
    <tr>
       <td>Scholarship Name</td>
@@ -20,4 +21,6 @@
    </tr>
 </table>
 
+
+## SCHOLARSHIP LISTINGS
   
