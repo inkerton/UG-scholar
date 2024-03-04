@@ -14,8 +14,7 @@ Open UG.md or PG.md add a table with the following details and commit to create 
           <tr>
             <td>Eligibility criteria</td>
             <td>
-               <ul><li>  </li>
-                </ul>
+               <ul><li> one </li></ul>
             </td>
           </tr>
           <tr>
