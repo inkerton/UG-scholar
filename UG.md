@@ -11,7 +11,7 @@
    <tr>
       <td>Eligibility criteria</td>
       <td>
-         <ul><li> one </li></ul>
+         <ol><li> one </li></ol>
       </td>
    </tr>
    <tr>
